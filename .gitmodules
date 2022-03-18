@@ -1,0 +1,4 @@
+[submodule "xmarts/change_management"]
+	path = xmarts/change_management
+	url = git@github.com:xmarts/change_management.git
+	branch = 15.0-josuealfaro
